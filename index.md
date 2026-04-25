@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# COMP110 Analysis Project
+# Project Overview
 
 ## Project Question
 
